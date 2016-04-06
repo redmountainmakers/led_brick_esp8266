@@ -1,0 +1,9 @@
+
+#define UDP_PORT        1081
+#define WIFI_DHCP_NAME  "espmatrix"
+#define WIFI_ESSID      "linksys"
+#define WIFI_PASSWORD   "linksys"
+
+#define LED_PIN   3 /* Ignored by NeoPixelBus for ESP8266 */
+#define COLS      29
+#define ROWS      6
